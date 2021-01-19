@@ -20,7 +20,7 @@
 
 <p align="center">
 
-  <img alt="Layout" src="https://res.cloudinary.com/kaioosilva/image/upload/v1611082587/gobarberApp_ddkeiw.gif">
+  <img alt="Layout" src="https://res.cloudinary.com/kaioosilva/image/upload/v1611083079/GobarberApp_svqw5u.gif">
   
 </p>
 
