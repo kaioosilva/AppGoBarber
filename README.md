@@ -16,6 +16,14 @@
   <a href="#-license">License</a>
 </p>
 
+</br>
+
+<p align="center">
+
+  <img alt="Layout" src="https://res.cloudinary.com/kaioosilva/image/upload/v1611082587/gobarberApp_ddkeiw.gif">
+  
+</p>
+
 ## 💇🏻‍♂️ About the project
 
 This project is based on an application for a hair salon. Containing scheduling, appointments, session and authentication.
