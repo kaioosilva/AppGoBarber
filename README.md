@@ -35,11 +35,10 @@ To see the **web client**, click here: [GoBarber Web](https://github.com/kaioosi
 
 Technologies that I used to develop this mobile client
 
-- [ReactJS](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
 - [React Native](https://reactnative.dev/)
 - [React Navigation](https://reactnavigation.org/)
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+- [TypeScript](https://www.typescriptlang.org/)
 - [UnForm](https://unform.dev/) [💜](https://rocketseat.com.br/)
 - [Yup](https://github.com/jquense/yup)
 - [Styled Components](https://styled-components.com/)
